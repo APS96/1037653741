@@ -1,3 +1,3 @@
 <?php 
-echo "Hola este es el correcto"
+echo "Hola este es primer correcto"
 ?>
