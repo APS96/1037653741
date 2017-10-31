@@ -4,3 +4,4 @@ php:
 
 script:
  - php Correcto.php
+ - php Incorrecto.php
